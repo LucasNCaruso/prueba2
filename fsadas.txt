@@ -1,0 +1,3 @@
+apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \libz-dev libssl-dev
+
+asdasfa
